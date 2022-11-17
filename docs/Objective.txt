@@ -1,0 +1,3 @@
+Objective
+
+Develop a model capable of predicting the onset of heart disease based on risk factors and previous history of the patient. 

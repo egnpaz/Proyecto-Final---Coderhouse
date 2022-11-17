@@ -1,0 +1,7 @@
+DATA Description.
+
+The Behavioral Risk Factor Surveillance System (BRFSS) objective is to collect uniform, state-specific data on preventive health practices and risk behaviors that are linked to chronic diseases, such as the one involved in this prediction model project, wich is Coronary Disease (commonly knowned as Heart Disease/Heart Attack).
+
+Data are collected from a random sample of adults (one per household) through a telephone survey. BRFSS now collects data in all 50 states as well as the District of Columbia and three U.S. territories.BRFSS completes more than 400,000 adult interviews each year, making it the largest continuously conducted health survey system in the world.
+
+We'll be using the 2015 year dataset. The dataset originally has 330 features (columns) regarding of risk factors for chronic health conditions, only selected features related to heart disease were included in the analysis (list below), leaving a total of 22 variables. The variables names were also renamed, to make them more readable/understandable using the codification included in the PDF file (also a description of variables available in the .txt file). Then the null values were adressed, droping the rows with nule values.
